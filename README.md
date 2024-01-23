@@ -6,9 +6,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/nileshsinghx?label=Follow&style=social)
 <!-- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=nileshsinghx&color=brightgreen">
 <img alt="Night Coding" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" align="right"/> -->
- *I am Nilesh, a Tech enthusiast.
- *I am a Software Developer -(working on it).
- *I like participating in Techie Stuffs.
+  I am Nilesh, a Tech enthusiast.
+  I am a Software Developer -(working on it).
+  I like participating in Techie Stuffs.
 
 ## Some languages and tools I'm familiar with
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
