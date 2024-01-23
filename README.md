@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
-<h3 align="center">Just another Indian boi :3.
+<h3 align="center">Just another Indian boi :)
+ 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thenileshsingh?label=Follow)](https://twitter.com/intent/follow?screen_name=thenileshsingh)
 [![Linkedin: Nilesh](https://img.shields.io/badge/-Nilesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nillx)](https://www.linkedin.com/in/nillx)
 ![GitHub followers](https://img.shields.io/github/followers/nileshsinghx?label=Follow&style=social)
